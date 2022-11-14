@@ -1,0 +1,1 @@
+"D:\DOWNLOAD_weixinkaifa\weixinkaifa\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-8gebpmyh1e622370 --n quickstartFunctions --r --project "C:\Users\Shiyu\Desktop\prac_weixinxiaochengxu\friends_cloud" --report_first --report
